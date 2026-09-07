@@ -29,12 +29,12 @@
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME/yashvir-gaming-image-studio">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/yashvir-gaming-image-studio?style=for-the-badge&logo=github">
+<a href="https://github.com/YashvirGaming/yashvir-gaming-image-studio">
+  <img src="https://img.shields.io/github/stars/YashvirGaming/yashvir-gaming-image-studio?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/yashvir-gaming-image-studio/fork">
-  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/yashvir-gaming-image-studio?style=for-the-badge&logo=github">
+<a href="https://github.com/YashvirGaming/yashvir-gaming-image-studio/fork">
+  <img src="https://img.shields.io/github/forks/YashvirGaming/yashvir-gaming-image-studio?style=for-the-badge&logo=github">
 </a>
 
 </div>
@@ -325,7 +325,7 @@ TIFF
 ## 1️⃣ Clone The Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/yashvir-gaming-image-studio.git
+git clone https://github.com/YashvirGaming/yashvir-gaming-image-studio.git
 ```
 
 ```bash
